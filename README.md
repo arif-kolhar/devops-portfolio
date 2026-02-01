@@ -14,22 +14,22 @@
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
-![GitHub forks](https://img.shields.io/github/forks/mdazfar2/AizzOps)
-![GitHub Repo stars](https://img.shields.io/github/stars/mdazfar2/AizzOps)
-![GitHub contributors](https://img.shields.io/github/contributors/mdazfar2/AizzOps)
-![GitHub last commit](https://img.shields.io/github/last-commit/mdazfar2/AizzOps)
-![GitHub repo size](https://img.shields.io/github/repo-size/mdazfar2/AizzOps)
-![Github](https://img.shields.io/github/license/mdazfar2/AizzOps)
-![GitHub issues](https://img.shields.io/github/issues/mdazfar2/AizzOps)
-![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/mdazfar2/AizzOps)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/mdazfar2/AizzOps)
+![GitHub forks](https://img.shields.io/github/forks/Rohitz999/RohitOps)
+![GitHub Repo stars](https://img.shields.io/github/stars/Rohitz999/RohitOps)
+![GitHub contributors](https://img.shields.io/github/contributors/Rohitz999/RohitOps)
+![GitHub last commit](https://img.shields.io/github/last-commit/Rohitz999/RohitOps)
+![GitHub repo size](https://img.shields.io/github/repo-size/Rohitz999/RohitOps)
+![Github](https://img.shields.io/github/license/Rohitz999/RohitOps)
+![GitHub issues](https://img.shields.io/github/issues/Rohitz999/RohitOps)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Rohitz999/RohitOps)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Rohitz999/RohitOps)
 
 </p>
 </div>
 
 <hr/>
 
-<a name="Welcome to AizzOps"></a>
+<a name="Welcome to RohitOps"></a>
 
 # Welcome to RohitOps 👋
 Welcome to RohitOps! Rohit's personal portfolio website showcases his journey and projects in DevOps. Here, you'll find detailed information about his skills, experiences, and the various projects he's worked on. Feel free to explore and connect with him!
@@ -112,17 +112,17 @@ This three-tier travel app, powered by React.js, Node.js, and MongoDB, is your g
 ## Socials 🌐
 
 <div align="center">
-  <a href="http://www.linkedin.com/in/md-azfar-alam"><img src="https://img.shields.io/badge/linkedin-0A0209?style=for-the-badge&logo=linkedin&logoColor=d5d5d5" /></a>
+  <a href="http://www.linkedin.com/in/rohitkumarvishwakarma"><img src="https://img.shields.io/badge/linkedin-0A0209?style=for-the-badge&logo=linkedin&logoColor=d5d5d5" /></a>
   <br>
-  <a href="https://medium.com/@azfaralam/"><img src="https://img.shields.io/badge/-medium-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209"/></a>
+  <a href="https://medium.com/@rohitvishwakarma8082/"><img src="https://img.shields.io/badge/-medium-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209"/></a>
   <a href="https://discordapp.com/users/877531143610708028"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Azfar Alam#6950" > 
   <br> 
-  <a href="https://www.facebook.com/mdazfar2/"><img src="https://img.shields.io/badge/facebook-0A0209?style=for-the-badge&logo=facebook&logoColor=d5d5d5" /></a>
+  <a href="https://www.facebook.com/rohitvishwakarma8082/"><img src="https://img.shields.io/badge/facebook-0A0209?style=for-the-badge&logo=facebook&logoColor=d5d5d5" /></a>
   <a href="https://app.daily.dev/azfaralam/"><img src="https://img.shields.io/badge/daily.dev-0A0209?style=for-the-badge&logo=daily.dev&logoColor=d5d5d5" /></a>
-  <a href="https://twitter.com/AzfarAlam22"><img src="https://img.shields.io/badge/twitter-0A0209?style=for-the-badge&logo=twitter&logoColor=d5d5d5" /></a> 
+  <a href="https://x.com/rohitxx055"><img src="https://img.shields.io/badge/twitter-0A0209?style=for-the-badge&logo=twitter&logoColor=d5d5d5" /></a> 
   <br>
-  <a href="https://azfaralam.hashnode.dev/"><img src="https://img.shields.io/badge/hashnode-d5d5d5?style=for-the-badge&logo=hashnode&logoColor=0A0209"/></a>
-  <a href="mdazfaralam440@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
+  <a href="https://rohit.hashnode.dev/"><img src="https://img.shields.io/badge/hashnode-d5d5d5?style=for-the-badge&logo=hashnode&logoColor=0A0209"/></a>
+  <a href="rohitvishwakarma8082@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
   <a href="https://instagram.com/azfarxx_?utm_source=qr&igshid=OGIxMTE0OTdkZA=="><img src="https://img.shields.io/badge/instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209"/></a>
   
 </div>
@@ -135,7 +135,7 @@ This three-tier travel app, powered by React.js, Node.js, and MongoDB, is your g
 </div>
 <br>
 
-I welcome contributions to AizzOps! If you're interested in contributing, please follow [CONTRIBUTING guidelines](https://github.com/mdazfar2/AizzOps/blob/main/CONTRIBUTING.md) to ensure a smooth and collaborative process:
+I welcome contributions to RohitOps! If you're interested in contributing, please follow [CONTRIBUTING guidelines](https://github.com/Rohitz999/RohitOps/blob/main/CONTRIBUTING.md) to ensure a smooth and collaborative process:
 
 
 <!----------------     License                ----------------------------------------------------------------------------------->
@@ -151,7 +151,7 @@ I welcome contributions to AizzOps! If you're interested in contributing, please
     </td>
     <td> 
       <img src="https://img.shields.io/badge/apache-license2.0-yellow.svg"/> <br> 
-AizzOps is licensed under the terms of the Apache License 2.0. check out <a href="./LICENSE">Apache 2.0</a> for details. <img width=2300/>
+RohitOps is licensed under the terms of the Apache License 2.0. check out <a href="./LICENSE">Apache 2.0</a> for details. <img width=2300/>
     </td>
   </tr>
 </table>

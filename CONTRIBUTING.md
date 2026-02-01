@@ -1,10 +1,10 @@
-# AizzOps Contributing Guidelines
+# RohitOps Contributing Guidelines
 Thank you for taking the time to contribute on my portfolio. Your help is essential for keeping it great.
 
 Please take a moment to read the following guidelines before contributing:
 
 > **⚠️IMPORTANT**
->
+
 > **Pull Requests _having no issue associated_ with them _will not be accepted_. Firstly get an issue assigned, whether it's already opened or raised by you, and then create a Pull Request.**
 >
 > **An automated process has been implemented to ensure the timely management of Pull Requests (PRs) on this platform.**
@@ -21,17 +21,17 @@ Please take a moment to read the following guidelines before contributing:
 
 ## How to Contribute 🤔
 
-To get started, look at the existing [**create a new issue**](https://github.com/mdazfar2/AizzOps/issues/new)!
+To get started, look at the existing [**create a new issue**](https://github.com/Rohitz999/RohitOps/issues/new)!
 
 ### Setup guidelines 🪜
 
 **Follow these steps to setup HelpOps-Hub on your local machine 👇**
 We love pull requests! If you have a fix or a feature, please follow these steps:
-1. **🍴 [Fork](github.com/mdazfar2/AizzOps) the Repository**: Click the "Fork" button at the top right corner of this repository.
+1. **🍴 [Fork](github.com/Rohitz999/RohitOps) the Repository**: Click the "Fork" button at the top right corner of this repository.
 2. **📂 Clone Your Fork**: Clone your forked repository to your local machine:
    
     ```sh
-    git clone https://github.com/your-username/aizzops.git
+    git clone https://github.com/your-username/rohitops.git
     ```
 3. **🌿 Create a Branch**: Create a new branch for your feature or bug fix:
     ```sh
@@ -58,7 +58,7 @@ We love pull requests! If you have a fix or a feature, please follow these steps
 
 <h2>Code Of Conduct📑</h2>
 
-This project and everyone participating in it is governed by the [Code of Conduct](https://github.com/mdazfar2/AizzOps/blob/main/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+This project and everyone participating in it is governed by the [Code of Conduct](https://github.com/Rohitz999. By participating, you are expected to uphold this code.
 
 
 ### 🐞 Reporting Bugs
@@ -107,8 +107,8 @@ Write clear and meaningful commit messages to describe your changes. Here’s a 
 
 ## 📜 License
 
-By contributing, you agree that your contributions will be licensed under the [Apache-2.0 License](https://github.com/mdazfar2/AizzOps/blob/main/LICENSE).
+By contributing, you agree that your contributions will be licensed under the [Apache-2.0 License](https://github.com/Rohitz999/RohitOps/blob/main/LICENSE).
 
 ---
 
-Thank you for your contributions and for helping to improve AizzOps!
+Thank you for your contributions and for helping to improve RohitOps!

@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-We take security seriously and will actively support and provide updates for the following versions of AizzOps:
+We take security seriously and will actively support and provide updates for the following versions of RohitOps:
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -33,10 +33,10 @@ If you discover a security vulnerability within this project, please follow thes
 
 ## Security Best Practices
 
-While we work hard to secure AizzOps, we also recommend the following best practices to ensure the security of your deployment:
+While we work hard to secure RohitOps, we also recommend the following best practices to ensure the security of your deployment:
 - Keep your software and dependencies up to date.
 - Use strong, unique passwords and manage them securely.
 - Monitor your systems for any unusual activity.
 - Regularly back up your data and configurations.
 
-Thank you for helping us keep AizzOps secure for everyone!
+Thank you for helping us keep RohitOps secure for everyone!
